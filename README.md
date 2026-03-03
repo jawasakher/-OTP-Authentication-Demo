@@ -6,7 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-
+<p align="center">
+  <img src="./public/otp-demo-preview.png" alt="OTP Authentication Demo Preview" width="800"/>
+</p>
 
 ## Project Summary
 
